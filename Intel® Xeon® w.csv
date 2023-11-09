@@ -1,0 +1,77 @@
+Product Name,Launch Date,# of Cores,Max Turbo Frequency,Processor Base Frequency,Cache,TDP,Processor Graphics ‡,Price
+"Intel® Xeon® w5-3425 Processor (30M Cache, 3.20 GHz)",Q1'23,12,4.60 GHz,3.20 GHz,30 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w9-3495X Processor (105M Cache, 1.90 GHz)",Q1'23,56,4.80 GHz,1.90 GHz,105 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w3-2423 Processor (15M Cache, 2.10 GHz)",Q1'23,6,4.20 GHz,2.10 GHz,15 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w3-2425 Processor (15M Cache, 3.00 GHz)",Q1'23,6,4.40 GHz,3.00 GHz,15 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w7-2475X Processor (37.5M Cache, 2.60 GHz)",Q1'23,20,4.80 GHz,2.60 GHz,37.5 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w9-3475X Processor (82.5M Cache, 2.20 GHz)",Q1'23,36,4.80 GHz,2.20 GHz,82.5 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w5-2455X Processor (30M Cache, 3.20 GHz)",Q1'23,12,4.60 GHz,3.20 GHz,30 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w5-3435X Processor (45M Cache, 3.10 GHz)",Q1'23,16,4.70 GHz,3.10 GHz,45 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w7-3445 Processor (52.5M Cache, 2.60 GHz)",Q1'23,20,4.80 GHz,2.60 GHz,52.5 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w7-3455 Processor (67.5M Cache, 2.50 GHz)",Q1'23,24,4.80 GHz,2.50 GHz,67.5 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w3-2435 Processor (22.5M Cache, 3.10 GHz)",Q1'23,8,4.50 GHz,3.10 GHz,22.5 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w5-2445 Processor (26.25M Cache, 3.10 GHz)",Q1'23,10,4.60 GHz,3.10 GHz,26.25 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w5-2465X Processor (33.75M Cache, 3.10 GHz)",Q1'23,16,4.70 GHz,3.10 GHz,33.75 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w7-2495X Processor (45M Cache, 2.50 GHz)",Q1'23,24,4.80 GHz,2.50 GHz,45 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® w7-3465X Processor (75M Cache, 2.50 GHz)",Q1'23,28,4.80 GHz,2.50 GHz,75 MB Intel® Smart Cache,,,Get a quote
+"Intel® Xeon® W-11155MRE Processor (8M Cache, up to 4.40 GHz)",Q3'21,4,4.40 GHz,,8 MB Intel® Smart Cache,,Intel® UHD Graphics for 11th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-11865MLE Processor (24M Cache, up to 4.50 GHz)",Q3'21,8,4.50 GHz,1.50 GHz,24 MB Intel® Smart Cache,25 W,Intel® UHD Graphics for 11th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-11155MLE Processor (8M Cache, up to 3.10 GHz)",Q3'21,4,3.10 GHz,1.80 GHz,8 MB Intel® Smart Cache,25 W,Intel® UHD Graphics for 11th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-11555MRE Processor (12M Cache, up to 4.50 GHz)",Q3'21,6,4.50 GHz,,12 MB Intel® Smart Cache,,Intel® UHD Graphics for 11th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-11555MLE Processor (12M Cache, up to 4.40 GHz)",Q3'21,6,4.40 GHz,1.90 GHz,12 MB Intel® Smart Cache,25 W,Intel® UHD Graphics for 11th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-11865MRE Processor (24M Cache, up to 4.70 GHz)",Q3'21,8,4.70 GHz,,24 MB Intel® Smart Cache,,Intel® UHD Graphics for 11th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-3345 Processor (36M Cache, up to 4.00 GHz)",Q3'21,24,4.00 GHz,3.00 GHz,36 MB,250 W,,Get a quote
+"Intel® Xeon® W-3375 Processor (57M Cache, up to 4.00 GHz)",Q3'21,38,4.00 GHz,2.50 GHz,57 MB,270 W,,Get a quote
+"Intel® Xeon® W-3323 Processor (21M Cache, up to 3.90 GHz)",Q3'21,12,3.90 GHz,3.50 GHz,21 MB,220 W,,Get a quote
+"Intel® Xeon® W-3365 Processor (48M Cache, up to 4.00 GHz)",Q3'21,32,4.00 GHz,2.70 GHz,48 MB,270 W,,Get a quote
+"Intel® Xeon® W-3335 Processor (24M Cache, up to 4.00 GHz)",Q3'21,16,4.00 GHz,3.40 GHz,24 MB,250 W,,Get a quote
+"Intel® Xeon® W-11955M Processor (24M Cache, 2.60 GHz)",Q2'21,8,5.00 GHz,,24 MB Intel® Smart Cache,,Intel® UHD Graphics for 11th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-11855M Processor (18M Cache, 3.20 GHz)",Q2'21,6,4.90 GHz,,18 MB Intel® Smart Cache,,Intel® UHD Graphics for 11th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-1350 Processor (12M Cache, up to 5.00 GHz)",Q2'21,6,5.00 GHz,3.30 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® W-1350P Processor (12M Cache, up to 5.10 GHz)",Q2'21,6,5.10 GHz,4.00 GHz,12 MB Intel® Smart Cache,125 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® W-1370 Processor (16M Cache, up to 5.10 GHz)",Q2'21,8,5.10 GHz,2.90 GHz,16 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® W-1370P Processor (16M Cache, up to 5.20 GHz)",Q2'21,8,5.20 GHz,3.60 GHz,16 MB Intel® Smart Cache,125 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® W-1390 Processor (16M Cache, up to 5.20 GHz)",Q2'21,8,5.20 GHz,2.80 GHz,16 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® W-1390P Processor (16M Cache, up to 5.30 GHz)",Q2'21,8,5.30 GHz,3.50 GHz,16 MB Intel® Smart Cache,125 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® W-1390T Processor (16M Cache, up to 4.90 GHz)",Q2'21,8,4.90 GHz,1.50 GHz,16 MB Intel® Smart Cache,35 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® W-1250TE Processor (12M Cache, up to 3.80 GHz)",Q2'20,6,3.80 GHz,2.40 GHz,12 MB Intel® Smart Cache,35 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® W-1290E Processor (20M Cache, up to 4.80 GHz)",Q2'20,10,4.80 GHz,3.50 GHz,20 MB Intel® Smart Cache,95 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® W-1270E Processor (16M Cache, up to 4.80 GHz)",Q2'20,8,4.80 GHz,3.40 GHz,16 MB Intel® Smart Cache,80 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® W-1270TE Processor (16M Cache, up to 4.40 GHz)",Q2'20,8,4.40 GHz,2.00 GHz,16 MB Intel® Smart Cache,35 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® W-1290 Processor (20M Cache, 3.20 GHz)",Q2'20,10,5.20 GHz,3.20 GHz,20 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® W-1270P Processor (16M Cache, 3.80 GHz)",Q2'20,8,5.10 GHz,3.80 GHz,16 MB Intel® Smart Cache,125 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® W-1270 Processor (16M Cache, 3.40 GHz)",Q2'20,8,5.00 GHz,3.40 GHz,16 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® W-1250P Processor (12M Cache, 4.10 GHz)",Q2'20,6,4.80 GHz,4.10 GHz,12 MB Intel® Smart Cache,125 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® W-1290TE Processor (20M Cache, up to 4.50 GHz)",Q2'20,10,4.50 GHz,1.80 GHz,20 MB Intel® Smart Cache,35 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® W-1290T Processor (20M Cache, 1.90 GHz)",Q2'20,10,4.70 GHz,1.90 GHz,20 MB Intel® Smart Cache,35 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® W-10855M Processor (12M Cache, up to 5.10 GHz)",Q2'20,6,5.10 GHz,2.80 GHz,12 MB Intel® Smart Cache,45 W,Intel® UHD Graphics for 10th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-10885M Processor (16M Cache, up to 5.30 GHz)",Q2'20,8,5.30 GHz,2.40 GHz,16 MB Intel® Smart Cache,45 W,Intel® UHD Graphics for 10th Gen Intel® Processors,Get a quote
+"Intel® Xeon® W-1250E Processor (12M Cache, up to 4.70 GHz)",Q2'20,6,4.70 GHz,3.50 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® W-1250 Processor (12M Cache, 3.30 GHz)",Q2'20,6,4.70 GHz,3.30 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® W-1290P Processor (20M Cache, 3.70 GHz)",Q2'20,10,5.30 GHz,3.70 GHz,20 MB Intel® Smart Cache,125 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® W-2245 Processor (16.5M Cache, 3.90 GHz)",Q4'19,8,4.50 GHz,3.90 GHz,16.5 MB,155 W,,Get a quote
+"Intel® Xeon® W-2225 Processor (8.25M Cache, 4.10 GHz)",Q4'19,4,4.60 GHz,4.10 GHz,8.25 MB,105 W,,Get a quote
+"Intel® Xeon® W-2275 Processor (19.25M Cache, 3.30 GHz)",Q4'19,14,4.60 GHz,3.30 GHz,19.25 MB,165 W,,Get a quote
+"Intel® Xeon® W-2295 Processor (24.75M Cache, 3.00 GHz)",Q4'19,18,4.60 GHz,3.00 GHz,24.75 MB,165 W,,Get a quote
+"Intel® Xeon® W-2265 Processor (19.25M Cache, 3.50 GHz)",Q4'19,12,4.60 GHz,3.50 GHz,19.25 MB,165 W,,Get a quote
+"Intel® Xeon® W-2255 Processor (19.25M Cache, 3.70 GHz)",Q4'19,10,4.50 GHz,3.70 GHz,19.25 MB,165 W,,Get a quote
+"Intel® Xeon® W-2223 Processor (8.25M Cache, 3.60 GHz)",Q4'19,4,3.90 GHz,3.60 GHz,8.25 MB,120 W,,Get a quote
+"Intel® Xeon® W-2235 Processor (8.25M Cache, 3.80 GHz)",Q4'19,6,4.60 GHz,3.80 GHz,8.25 MB,130 W,,Get a quote
+"Intel® Xeon® W-3235 Processor (19.25M Cache, 3.30 GHz)",Q2'19,12,4.40 GHz,3.30 GHz,19.25 MB,180 W,,Get a quote
+"Intel® Xeon® W-3265M Processor (33M Cache, 2.70 GHz)",Q2'19,24,4.40 GHz,2.70 GHz,33 MB,205 W,,Get a quote
+"Intel® Xeon® W-3245M Processor (22M Cache, 3.20 GHz)",Q2'19,16,4.40 GHz,3.20 GHz,22 MB,205 W,,Get a quote
+"Intel® Xeon® W-3275 Processor (38.5M Cache, 2.50 GHz)",Q2'19,28,4.40 GHz,2.50 GHz,38.5 MB,205 W,,Get a quote
+"Intel® Xeon® W-3223 Processor (16.5M Cache, 3.50 GHz)",Q2'19,8,4.00 GHz,3.50 GHz,16.5 MB,160 W,,Get a quote
+"Intel® Xeon® W-3265 Processor (33M Cache, 2.70 GHz)",Q2'19,24,4.40 GHz,2.70 GHz,33 MB,205 W,,Get a quote
+"Intel® Xeon® W-3225 Processor (16.5M Cache, 3.70 GHz)",Q2'19,8,4.30 GHz,3.70 GHz,16.5 MB,160 W,,Get a quote
+"Intel® Xeon® W-3245 Processor (22M Cache, 3.20 GHz)",Q2'19,16,4.40 GHz,3.20 GHz,22 MB,205 W,,Get a quote
+"Intel® Xeon® W-3275M Processor (38.5M Cache, 2.50 GHz)",Q2'19,28,4.40 GHz,2.50 GHz,38.5 MB,205 W,,Get a quote
+"Intel® Xeon® W-3175X Processor (38.5M Cache, 3.10 GHz)",Q4'18,28,3.80 GHz,3.10 GHz,38.5 MB,255 W,,Get a quote
+"Intel® Xeon® W-2123 Processor (8.25M Cache, 3.60 GHz)",Q3'17,4,3.90 GHz,3.60 GHz,8.25 MB,120 W,,Get a quote
+"Intel® Xeon® W-2133 Processor (8.25M Cache, 3.60 GHz)",Q3'17,6,3.90 GHz,3.60 GHz,8.25 MB,140 W,,Get a quote
+"Intel® Xeon® W-2155 Processor (13.75M Cache, 3.30 GHz)",Q3'17,10,4.50 GHz,3.30 GHz,13.75 MB,140 W,,Get a quote
+"Intel® Xeon® W-2145 Processor (11M Cache, 3.70 GHz)",Q3'17,8,4.50 GHz,3.70 GHz,11 MB,140 W,,Get a quote
+"Intel® Xeon® W-2125 Processor (8.25M Cache, 4.00 GHz)",Q3'17,4,4.50 GHz,4.00 GHz,8.25 MB,120 W,,Get a quote
+"Intel® Xeon® W-2135 Processor (8.25M Cache, 3.70 GHz)",Q3'17,6,4.50 GHz,3.70 GHz,8.25 MB,140 W,,Get a quote
+"Intel® Xeon® W-2195 Processor (24.75M Cache, 2.30 GHz)",Q3'17,18,4.30 GHz,2.30 GHz,24.75 MB,140 W,,Get a quote
+"Intel® Xeon® W-2175 Processor (19.25M Cache, 2.50 GHz)",Q3'17,14,4.30 GHz,2.50 GHz,19 MB,140 W,,Get a quote

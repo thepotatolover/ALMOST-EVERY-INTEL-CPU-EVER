@@ -1,0 +1,44 @@
+Product Name,Launch Date,# of Cores,Max Turbo Frequency,Processor Base Frequency,Cache,TDP,Processor Graphics ‡,Price
+"Intel® Xeon® E-2378G Processor (16M Cache, 2.80 GHz)",Q3'21,8,5.10 GHz,2.80 GHz,16 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® E-2388G Processor (16M Cache, 3.20 GHz)",Q3'21,8,5.10 GHz,3.20 GHz,16 MB Intel® Smart Cache,95 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® E-2386G Processor (12M Cache, 3.50 GHz)",Q3'21,6,5.10 GHz,3.50 GHz,12 MB Intel® Smart Cache,95 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® E-2334 Processor (8M Cache, 3.40 GHz)",Q3'21,4,4.80 GHz,3.40 GHz,8 MB Intel® Smart Cache,65 W,,Get a quote
+"Intel® Xeon® E-2314 Processor (8M Cache, 2.80 GHz)",Q3'21,4,4.50 GHz,2.80 GHz,8 MB Intel® Smart Cache,65 W,,Get a quote
+"Intel® Xeon® E-2374G Processor (8M Cache, 3.70 GHz)",Q3'21,4,5.00 GHz,3.70 GHz,8 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® E-2378 Processor (16M Cache, 2.60 GHz)",Q3'21,8,4.80 GHz,2.60 GHz,16 MB Intel® Smart Cache,65 W,,Get a quote
+"Intel® Xeon® E-2336 Processor (12M Cache, 2.90 GHz)",Q3'21,6,4.80 GHz,2.90 GHz,12 MB Intel® Smart Cache,65 W,,Get a quote
+"Intel® Xeon® E-2324G Processor (8M Cache, 3.10 GHz)",Q3'21,4,4.60 GHz,3.10 GHz,8 MB Intel® Smart Cache,65 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® E-2356G Processor (12M Cache, 3.20 GHz)",Q3'21,6,5.00 GHz,3.20 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P750,Get a quote
+"Intel® Xeon® E-2278GE Processor (16M Cache, 3.30 GHz)",Q2'19,8,4.70 GHz,3.30 GHz,16 MB,80 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® E-2254ME Processor (8M Cache, 2.60 GHz)",Q2'19,4,3.80 GHz,2.60 GHz,8 MB,45 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2276ME Processor (12M Cache, 2.80 GHz)",Q2'19,6,4.50 GHz,2.80 GHz,12 MB,45 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2254ML Processor (8M Cache, 1.70 GHz)",Q2'19,4,3.50 GHz,1.70 GHz,8 MB,25 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2276ML Processor (12M Cache, 2.00 GHz)",Q2'19,6,4.20 GHz,2.00 GHz,12 MB,25 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2278GEL Processor (16M Cache, 2.00 GHz)",Q2'19,8,3.90 GHz,2.00 GHz,16 MB,35 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® E-2226GE Processor (12M Cache, 3.40 GHz)",Q2'19,6,4.60 GHz,3.40 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics 630,Get a quote
+"Intel® Xeon® E-2278G Processor (16M Cache, 3.40 GHz)",Q2'19,8,5.00 GHz,3.40 GHz,16 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2288G Processor (16M Cache, 3.70 GHz)",Q2'19,8,5.00 GHz,3.70 GHz,16 MB Intel® Smart Cache,95 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2226G Processor (12M Cache, 3.40 GHz)",Q2'19,6,4.70 GHz,3.40 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2234 Processor (8M Cache, 3.60 GHz)",Q2'19,4,4.80 GHz,3.60 GHz,8 MB Intel® Smart Cache,71 W,,Get a quote
+"Intel® Xeon® E-2236 Processor (12M Cache, 3.40 GHz)",Q2'19,6,4.80 GHz,3.40 GHz,12 MB Intel® Smart Cache,80 W,,Get a quote
+"Intel® Xeon® E-2244G Processor (8M Cache, 3.80 GHz)",Q2'19,4,4.80 GHz,3.80 GHz,8 MB Intel® Smart Cache,71 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2286G Processor (12M Cache, 4.00 GHz)",Q2'19,6,4.90 GHz,4.00 GHz,12 MB Intel® Smart Cache,95 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2276G Processor (12M Cache, 3.80 GHz)",Q2'19,6,4.90 GHz,3.80 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2224 Processor (8M Cache, 3.40 GHz)",Q2'19,4,4.60 GHz,3.40 GHz,8 MB Intel® Smart Cache,71 W,,Get a quote
+"Intel® Xeon® E-2224G Processor (8M Cache, 3.50 GHz)",Q2'19,4,4.70 GHz,3.50 GHz,8 MB Intel® Smart Cache,71 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2274G Processor (8M Cache, 4.00 GHz)",Q2'19,4,4.90 GHz,4.00 GHz,8 MB Intel® Smart Cache,83 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2246G Processor (12M Cache, 3.60 GHz)",Q2'19,6,4.80 GHz,3.60 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2276M Processor (12M Cache, 2.80 GHz)",Q2'19,6,4.70 GHz,2.80 GHz,12 MB Intel® Smart Cache,45 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2286M Processor (16M Cache, 2.40 GHz)",Q2'19,8,5.00 GHz,2.40 GHz,16 MB Intel® Smart Cache,45 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2124G Processor (8M Cache, up to 4.50 GHz)",Q3'18,4,4.50 GHz,3.40 GHz,8 MB Intel® Smart Cache,71 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2186G Processor (12M Cache, up to 4.70 GHz)",Q3'18,6,4.70 GHz,3.80 GHz,12 MB Intel® Smart Cache,95 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2124 Processor (8M Cache, up to 4.30 GHz)",Q3'18,4,4.30 GHz,3.30 GHz,8 MB Intel® Smart Cache,71 W,,Get a quote
+"Intel® Xeon® E-2136 Processor (12M Cache, up to 4.50 GHz)",Q3'18,6,4.50 GHz,3.30 GHz,12 MB Intel® Smart Cache,80 W,,Get a quote
+"Intel® Xeon® E-2126G Processor (12M Cache, up to 4.50 GHz)",Q3'18,6,4.50 GHz,3.30 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2174G Processor (8M Cache, up to 4.70 GHz)",Q3'18,4,4.70 GHz,3.80 GHz,8 MB Intel® Smart Cache,71 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2146G Processor (12M Cache, up to 4.50 GHz)",Q3'18,6,4.50 GHz,3.50 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2134 Processor (8M Cache, up to 4.50 GHz)",Q3'18,4,4.50 GHz,3.50 GHz,8 MB Intel® Smart Cache,71 W,,Get a quote
+"Intel® Xeon® E-2144G Processor (8M Cache, up to 4.50 GHz)",Q3'18,4,4.50 GHz,3.60 GHz,8 MB Intel® Smart Cache,71 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2186M Processor (12M Cache, up to 4.80 GHz)",Q2'18,6,4.80 GHz,2.90 GHz,12 MB Intel® Smart Cache,45 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2176M Processor (12M Cache, up to 4.40 GHz)",Q2'18,6,4.40 GHz,2.70 GHz,12 MB Intel® Smart Cache,45 W,Intel® UHD Graphics P630,Get a quote
+"Intel® Xeon® E-2176G Processor (12M Cache, up to 4.70 GHz)",Q4'17,6,4.70 GHz,3.70 GHz,12 MB Intel® Smart Cache,80 W,Intel® UHD Graphics P630,Get a quote
